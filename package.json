@@ -1,0 +1,13 @@
+{
+	"name": "image-resizer-electron",
+	"version": "1.0.0",
+	"productName": "Image Resizer",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Benson Oyugi",
+	"license": "ISC",
+	"description": ""
+}
